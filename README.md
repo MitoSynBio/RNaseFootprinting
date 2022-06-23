@@ -1,1 +1,1 @@
-# RNaseFootprinting
+# Digital RNase Footprinting
