@@ -22,7 +22,8 @@ STRAND = fwd/rev<br>
 The pipeline output will be stored in a directory in the specified working directory.
 <br>
 <br>
-
+<br>
+#### OR, run the pipeline in sections:
 ## 1. Calculate C-scores
 Usage: `./1.calculate_cscore.sh [-p protein name] [-d input data directory] [-w working directory]`
 
